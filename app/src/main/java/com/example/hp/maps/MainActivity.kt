@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
 
 
 
-    val RQ_LOCATION = 123
+    val RQ_LOCATION = 123   // just a constant..
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
